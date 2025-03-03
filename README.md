@@ -22,9 +22,13 @@ Para utilizar la aplicación, sigue estos pasos:
    ```bash
    cd MC-RadialForce_Orbits
    ```
-3. Ejecuta la aplicación:
+3. Instala las dependencias:
    ```bash
-   # Instrucciones para ejecutar la aplicación
+   npm install
+   ```
+4. Ejecuta la aplicación:
+   ```bash
+   npm start
    ```
 
 ## Contribuciones
